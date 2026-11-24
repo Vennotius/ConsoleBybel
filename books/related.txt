@@ -1,0 +1,6 @@
+soos	so	related
+so	soos	related
+bang	bevrees	related
+bevrees	bang	related
+vrees	bevrees	related
+bevrees	vrees	related
