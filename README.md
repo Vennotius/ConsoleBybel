@@ -7,6 +7,15 @@ klein program, `lees-bybel`, met die hele teks binne-in.
 Windows, Linux and the Raspberry Pi. One native program with the text built in; its interface is in
 Afrikaans. Download it from [Releases](../../releases). The code is MIT.
 
+### Lees
+<img width="700" height="573" alt="image" src="https://github.com/user-attachments/assets/cbe0e378-7461-44b0-b572-97addbf8a2c9" />
+
+### Soek
+<img width="707" height="573" alt="image" src="https://github.com/user-attachments/assets/de7211ac-96d8-4eb2-8949-cf34607f71d8" />
+
+### Hulp
+<img width="702" height="573" alt="image" src="https://github.com/user-attachments/assets/80960948-b75c-481a-8d06-c3e77b1edc5c" />
+
 ## Aflaai
 
 By [Releases](../../releases), een lêer vir elke soort rekenaar:
